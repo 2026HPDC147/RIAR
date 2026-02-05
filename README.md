@@ -42,7 +42,6 @@ All algorithms presented in the paper are implemented in:
 - `RIAR/booksim/src/networks/dragonfly.cpp`  
 - `RIAR/booksim/src/routers/iq_router.cpp`  
 
-Due to time constraints, comments are limited at this stage.  
-Comprehensive code documentation and additional explanations will be added after review results are announced.
+
 
 
