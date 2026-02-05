@@ -1,7 +1,7 @@
 # HPDC 2026 — Paper ID #147 (Anonymous Repository)
 
 This is the open-source repository for **HPDC 2026 paper ID #147**.  
-This is currently an empty project without any code. If our paper is accepted, we will complete the code. This repository builds upon the open-source implementation from *Hans Kasan* (2022),  author of the baseline adaptive routing algorithm **DGB** used in this paper. We gratefully acknowledge the contribution of *Hans Kasan* to the research community.  
+This is currently an empty project without any code. If our paper is accepted, we will complete the code. This repository builds upon the open-source implementation from *Hans Kasan* (2022),  one of the authors of the baseline adaptive routing algorithm **DGB** used in this paper. We gratefully acknowledge the contribution of *Hans Kasan* to the research community.  
 
 
 
@@ -44,4 +44,5 @@ All algorithms presented in the paper are implemented in:
 
 Due to time constraints, comments are limited at this stage.  
 Comprehensive code documentation and additional explanations will be added after review results are announced.
+
 
